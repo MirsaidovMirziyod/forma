@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: white;
+    width: 450px;
+    text-align: center;
+}
+.ct{
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    background-image: url(./beautiful-mountain-view-jlmehx2yazr1hleo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 50%;
+}
